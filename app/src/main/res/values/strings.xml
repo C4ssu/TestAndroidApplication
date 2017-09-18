@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestAndroidApplication</string>
+    <string name="helloworld">Hello World!</string>
+    <string name="testbutton">Test!</string>
+    <string name="launch_second">Launch second</string>
+    <string name="second_activity">Second activity</string>
+    <string name="end_second_activity">End current activity</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_success">Login successful!</string>
+    <string name="login_failed">Please fill any empty fields</string>
+    <string name="test_notification">Test notification</string>
+    <string name="loggedin_text">Logged in with email:</string>
+    <string name="loggedin_title">Login successful!</string>
+    <string name="loggedin_ticker">Logged in!</string>
+    <string name="nTest_text">Open second activity</string>
+    <string name="nTest_title">Test notification title</string>
+    <string name="nTest_ticker">Test notification</string>
+</resources>

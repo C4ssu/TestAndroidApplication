@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestiAndroidSovellus</string>
+    <string name="helloworld">Hei Maailma!</string>
+    <string name="testbutton">Testi!</string>
+    <string name="launch_second">Käynnistä toinen</string>
+    <string name="second_activity">Toinen aktiviteetti</string>
+    <string name="end_second_activity">Lopeta aktiviteetti</string>
+    <string name="show_dialog">Näytä dialogi</string>
+    <string name="login">Kirjaudu sisään</string>
+    <string name="email">Sähköpostiosoite</string>
+    <string name="password">Salasana</string>
+    <string name="login_success">Kirjautuminen onnistui!</string>
+    <string name="login_failed">Täytä tyhjät kentät</string>
+    <string name="test_notification">Testi ilmoitus</string>
+    <string name="loggedin_text">Kirjauduttu sähköpostilla:</string>
+    <string name="loggedin_title">Kirjautuminen onnistui!</string>
+    <string name="loggedin_ticker">Kirjauduttu sisään!</string>
+    <string name="nTest_text">Avaa toinen aktiviteetti</string>
+    <string name="nTest_title">Testi ilmoituksen otsikko</string>
+    <string name="nTest_ticker">Testi ilmoitus</string>
+</resources>
